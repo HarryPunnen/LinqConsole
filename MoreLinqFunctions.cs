@@ -78,6 +78,9 @@ namespace LinqConsole
                 Console.Write($"{num} ");
         }
         // Perform Pagination
-
+        public void Pagination()
+        {
+            // Demonstration of pagination
+        }
     }
 }
