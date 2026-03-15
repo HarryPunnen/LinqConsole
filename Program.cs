@@ -6,4 +6,5 @@ using MyGACLibrary;
 //LinqStudent lqs = new LinqStudent();
 //lqs.GroupByExecution();
 MoreLinqFunctions mlf = new MoreLinqFunctions();
-mlf.SkipFunctions();
+//mlf.SkipFunctions();
+mlf.Pagination();
